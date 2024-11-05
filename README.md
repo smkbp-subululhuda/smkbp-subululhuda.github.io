@@ -1,2 +1,2 @@
-# smkbp-subululhuda.github.io
-Landing page for SMK BP Subulul Huda
+### Welcome to
+# SMK BP Subulul Huda
